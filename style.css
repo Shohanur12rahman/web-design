@@ -1,0 +1,239 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family:sans-sarig arial !important;
+	transition:all.3s ease;
+	-webkit-transition:all .3s ease;
+}
+p{
+	line-height:150%;
+	margin-right:10px;
+}
+a{
+	text-decoration:none;
+}
+ul{
+	list-style:none;
+}
+
+.full_container{
+	width:100%;
+}
+.container{
+	width:1000px;
+	margin:0 auto;
+}
+.fix{
+	overflow:hidden;
+}
+.header_bg{
+	width:100%;
+	background-color:#F0FFF0;
+}
+.header{
+	margin-top:30px;
+}
+.header .logo_left{
+	float:left;
+	display:inline-block;
+}
+.header .logo_left img{
+	width:150px;
+}
+.header .logo_right{
+	float:right;
+}
+.header .logo_right ul{}
+.header .logo_right ul li{
+	float:left;
+	padding:20px 30px;
+}
+.header .logo_right ul li.sign{
+	padding:15px 40px;
+	background-color:#21B573;
+	color:#fff;
+	border:none;
+	border-radius:28px;
+	cursor:pointer;
+}
+.header .logo_right ul li a:hover{}
+.header_a .header_b .header_article{
+	margin-top:200px;
+	width:475px;
+	float:left;
+	margin-right: 25px;
+}
+.header_a .header_b .header_article h4{
+	margin-bottom:30px;
+	font-weight:normal;
+	color:#FD511A;
+}
+.header_a .header_b .header_article h2{
+	font-size:65px;
+	margin-bottom:50px;
+}
+.header_article p{
+	margin-bottom:50px;
+	color:#6C6B6B;
+}
+.header_article button{
+	margin-bottom:80px;
+	padding:15px 40px;
+	background-color:#21B573;
+	color:#fff;
+	border:none;
+	border-radius:28px;
+	cursor:pointer;
+}
+.header_article .color{
+	color:#21B573;
+}
+.header_bottom{
+	margin-top:30px;
+	text-align:center;
+}
+.header_a .header_c{
+	float:left;
+	margin-top: 125px;
+}
+.header_a .header_c img{
+	width:500px;
+}
+.header_bottom .header_bottom_article{
+	width: 185px;
+    display: inline-block;
+    margin-right: 25px;
+    padding: 20px;
+    background-color: #F8FFFB;
+}
+.header_bottom .header_last{
+	margin-right:0;
+}
+.header_bottom .header_bottom_article img{
+	width: 100px;
+    height: 120px;
+}
+.header_bottom .header_bottom_article h2{
+	margin-top:20px;
+}
+.header_bottom .shadow_box{
+	box-shadow: 0px 0px 29px 20px #EBEBEB;
+    margin-bottom: 50px;
+	border-radius: 15px;
+}
+.online_header{
+	margin:0 auto;
+	text-align:center;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.online_header h1{
+	font-size:45px;
+}
+.online{
+	margin:0 auto;
+}
+.online .online_first{
+	margin-left:30px;
+}
+.online .online_course{
+	width:250px;
+	margin-right:50px;
+	float:left;
+	background-color:#;
+	box-shadow: 0px 0px 29px 10px #EBEBEB;
+    margin-bottom: 80px;
+	margin-top:50px;
+	border-radius:15px;
+	padding:15px;
+}
+.online .online_course h2{
+	margin-top:15px;
+	color:#413960;
+	margin-bottom:15px;
+}
+.online .online_course p{
+	color:#413960;
+	margin-bottom:15px;
+}
+.online .online_course button{
+	padding:15px 40px;
+	background-color:#21B573;
+	color:#fff;
+	border:none;
+	border-radius:28px;
+	cursor:pointer;
+	margin-bottom:30px;
+}
+.online .online_last{
+	margin-right:0;
+}
+.online .online_course img{
+	width: 250px;
+	border-radius: 15px;
+}
+.online .online_course .online_org{}
+.online .online_course .online_org .online_l{
+	width:60%;
+	float:left;
+	display:inline-block;
+	margin-right: 35px;
+}
+.online .online_course .online_org .online_r{
+	float:left;
+	display:inline-block;
+}
+
+         /*.......footer_top...........*/
+.footer_top{
+	margin:0 auto;
+	text-align:center;
+}
+.footer_top h2{}
+.footer_top p{
+	background: url(images/img_logo.png) no-repeat;
+    background-position: left;
+    background-size: 150px 150px;
+    line-height: 150%;
+    padding: 74px;
+    margin-left: 70px;
+    padding-top: 20px;
+    font-size: 19px;
+}
+.footer_bg{
+	background-color:#282531;
+}
+.footer{
+	margin-top:50px;
+}
+.footer .footer_article_1{
+	width:300px;
+	float:left;
+	display:inline-block;
+	margin-right:25px;
+}
+.footer .footer_article_1 p{
+	color:#fff;
+}
+.footer .footer_article{
+	width:200px;
+	float:left;
+	display:inline-block;
+	margin-right:25px;
+}
+.footer .footer_article h3{
+	color:#fff;
+}
+.footer .footer_article p{
+	color:#fff;
+}
+#footer_b{
+	padding: 30px;
+    overflow: hidden;
+    text-align: center;
+}
+#footer_b p{
+	color:#fff;
+}
